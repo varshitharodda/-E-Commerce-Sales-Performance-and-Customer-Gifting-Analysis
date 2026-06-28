@@ -1,0 +1,2 @@
+# -E-Commerce-Sales-Performance-and-Customer-Gifting-Analysis
+ E-Commerce Sales Performance and Customer Gifting Analysis is an Excel dashboard project that analyzes sales, customer behavior, product performance, seasonal occasions, and delivery efficiency. Built using Pivot Tables, Charts, Slicers, KPIs, and Excel functions, it delivers interactive business insights to support data-driven decision-making
